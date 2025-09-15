@@ -1,9 +1,9 @@
 ![wave](https://user-images.githubusercontent.com/77038659/130917013-c209e83c-4b93-4de6-9258-5f318f24ab60.png)
-<h1 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm SUHAIL I 
-<br><br> 👨‍💻 About Me  
-I am a **MERN Stack Web Developer** passionate about building responsive, scalable, and secure web applications.  
-I enjoy working across the full stack — from designing interactive **frontends with React** to building efficient **backends with Node.js, Express, and MongoDB**.  
-I love solving problems, writing clean code, and continuously learning new technologies to deliver impactful solutions.  
+<h1 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"></g-emoji>, Hi 👋, I'm SUHAIL I  
+<br>👨‍💻 About Me  <br>
+I am a MERN Stack Web Developer passionate about building responsive, scalable, and secure web applications.  
+I enjoy working across the full stack — from crafting interactive frontends with React to developing efficient backends with Node.js, Express, and MongoDB.  
+I love solving problems, writing clean code, and continuously learning new technologies to deliver impactful solutions.   
 </h1>
 <br>
 
