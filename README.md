@@ -6,7 +6,7 @@
 ## 💫 About Me:
 - 😄 Pronouns: He/ His
 - 👨‍💻 See my Portfolio here [Portfolio](https://portfolio-ten-livid-39.vercel.app/)
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1xnvuV9ltBEeFlsMUfBz0b6pD_jIh_a2y/view?usp=sharing)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1ZD-0wtW9J7IivftxjD01dR-dauPS4R5c/view?usp=sharing)
 - 📫 Reach me at **irsuhail2000@gmail.com**
 
 ## 💻 Tech Stack:
